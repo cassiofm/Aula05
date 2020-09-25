@@ -18,6 +18,8 @@
         <h1>Hello World!</h1>
         <h1>Horário atual:</h1><br>
         <%= Agora.getHorario() %>
+        <h3><a href="users.jsp">Usuários</a></h3>
+        <h3><a href="pessoa.jsp">p e s s o a</a></h3>
         <h3>Tarefa de 21/09/2020</h3>
     </body>
 </html>
